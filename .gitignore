@@ -1,3 +1,5 @@
+/01-image-processing/*.ipynb
+/02-segmentation/*.ipynb
 /03-object-detection/*.ipynb
 /04-3d-reconstruction/*.ipynb
 /05-deep-learning/*.ipynb
