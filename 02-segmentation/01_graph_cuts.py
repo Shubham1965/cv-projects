@@ -1,3 +1,4 @@
+# TODO: work on this next week
 import numpy as np
 import matplotlib.pyplot as plt
 import imageio
